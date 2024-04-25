@@ -1,0 +1,114 @@
+[
+  {
+    "repid": 275,
+    "rep": "Michael Blythe",
+    "rep_quota": 300000.0000,
+    "rep_bonus": 4100.0000,
+    "rep_comm": 0.0120,
+    "rep_sales": 3763178.1787
+  },
+  {
+    "repid": 276,
+    "rep": "Linda Mitchell",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 2000.0000,
+    "rep_comm": 0.0150,
+    "rep_sales": 4251368.5497
+  },
+  {
+    "repid": 277,
+    "rep": "Jillian Carson",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 2500.0000,
+    "rep_comm": 0.0150,
+    "rep_sales": 3189418.3662
+  },
+  {
+    "repid": 278,
+    "rep": "Garrett Vargas",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 500.0000,
+    "rep_comm": 0.0100,
+    "rep_sales": 1453719.4653
+  },
+  {
+    "repid": 279,
+    "rep": "Tsvi Reiter",
+    "rep_quota": 300000.0000,
+    "rep_bonus": 6700.0000,
+    "rep_comm": 0.0100,
+    "rep_sales": 2315185.6110
+  },
+  {
+    "repid": 280,
+    "rep": "Pamela Ansman-Wolfe",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 5000.0000,
+    "rep_comm": 0.0100,
+    "rep_sales": 1352577.1325
+  },
+  {
+    "repid": 281,
+    "rep": "Shu Ito",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 3550.0000,
+    "rep_comm": 0.0100,
+    "rep_sales": 2458535.6169
+  },
+  {
+    "repid": 282,
+    "rep": "José Saraiva",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 5000.0000,
+    "rep_comm": 0.0150,
+    "rep_sales": 2604540.7172
+  },
+  {
+    "repid": 283,
+    "rep": "David Campbell",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 3500.0000,
+    "rep_comm": 0.0120,
+    "rep_sales": 1573012.9383
+  },
+  {
+    "repid": 284,
+    "rep": "Tete Mensa-Annan",
+    "rep_quota": 300000.0000,
+    "rep_bonus": 3900.0000,
+    "rep_comm": 0.0190,
+    "rep_sales": 1576562.1966
+  },
+  {
+    "repid": 286,
+    "rep": "Lynn Tsoflias",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 5650.0000,
+    "rep_comm": 0.0180,
+    "rep_sales": 1421810.9242
+  },
+  {
+    "repid": 288,
+    "rep": "Rachel Valdez",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 75.0000,
+    "rep_comm": 0.0180,
+    "rep_sales": 1827066.7118
+  },
+  {
+    "repid": 289,
+    "rep": "Jae Pak",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 5150.0000,
+    "rep_comm": 0.0200,
+    "rep_sales": 4116871.2277
+  },
+  {
+    "repid": 290,
+    "rep": "Ranjit Varkey Chudukatil",
+    "rep_quota": 250000.0000,
+    "rep_bonus": 985.0000,
+    "rep_comm": 0.0160,
+    "rep_sales": 3121616.3202
+  }
+]

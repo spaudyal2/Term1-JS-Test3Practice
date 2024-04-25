@@ -1,0 +1,17 @@
+[
+    {
+        "cat":      "light-weight",
+        "w_range":  ".5kg - 5kg",
+        "shipcost": 2.5
+    },
+    {
+        "cat":      "mid-weight",
+        "w_range":  "5.1kg - 10kg",
+        "shipcost": 10
+    },
+    {
+        "cat":      "heavy-weight",
+        "w_range":  "10.1kg and above",
+        "shipcost": 25
+    }
+]

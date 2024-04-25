@@ -1,0 +1,238 @@
+[
+	{
+	  "id": 1,
+	  "name": "Ahool Ale",
+	  "activelyBrewed": false,
+	  "ibu": 33,
+	  "abv": 5.4,
+	  "flavors": [
+		"biscuity"
+	  ],
+	  "lastTappedOn": "1/23/2016",
+	  "breweryId": "b3TplPdS",
+	  "breweryName": "Northern Hemisphere Brewco"
+	},
+	{
+	  "id": 2,
+	  "name": "Agogwe Ale",
+	  "activelyBrewed": false,
+	  "ibu": 28,
+	  "abv": 2.9,
+	  "flavors": [
+		"wheat",
+		"floral"
+	  ],
+	  "lastTappedOn": "5/18/2016",
+	  "breweryId": "Ek4mwsBoe",
+	  "breweryName": "Southern Hemisphere Brewco"
+	},
+	{
+	  "id": 3,
+	  "name": "Aswang Ale",
+	  "activelyBrewed": true,
+	  "ibu": 31,
+	  "abv": 4.2,
+	  "flavors": [
+		"butter",
+		"yeast"
+	  ],
+	  "lastTappedOn": "2/13/2016",
+	  "breweryId": "b3TplPdS",
+	  "breweryName": "Northern Hemisphere Brewco"
+	},
+	{
+	  "id": 4,
+	  "name": "Buru's Barley Wine",
+	  "activelyBrewed": true,
+	  "ibu": 76,
+	  "abv": 11.1,
+	  "flavors": [
+		"raisin",
+		"dried fruit",
+		"bourbon"
+	  ],
+	  "lastTappedOn": "1/1/2016",
+	  "breweryId": "b3TplPdS",
+	  "breweryName": "Northern Hemisphere Brewco"
+	},
+	{
+	  "id": 7,
+	  "name": "Hyote Chocolate Stout",
+	  "activelyBrewed": true,
+	  "ibu": 78,
+	  "abv": 7.4,
+	  "flavors": [
+		"caramel",
+		"chocolate"
+	  ],
+	  "lastTappedOn": "1/7/2016",
+	  "breweryId": "zkXBTiBol",
+	  "breweryName": "North American Brewco"
+	},
+	{
+	  "id": 8,
+	  "name": "Igopogo Pilsner",
+	  "activelyBrewed": false,
+	  "ibu": 36,
+	  "abv": 5.7,
+	  "flavors": [
+		"malt",
+		"bread"
+	  ],
+	  "lastTappedOn": "11/15/2015",
+	  "breweryId": "zkXBTiBol",
+	  "breweryName": "North American Brewco"
+	},
+	{
+	  "id": 9,
+	  "name": "Jackalobe Lager",
+	  "activelyBrewed": true,
+	  "ibu": 29,
+	  "abv": 3.3,
+	  "flavors": [
+		"fruit",
+		"citrus"
+	  ],
+	  "lastTappedOn": "3/15/2016",
+	  "breweryId": "zkXBTiBol",
+	  "breweryName": "North American Brewco"
+	},
+	{
+	  "id": 11,
+	  "name": "Mahamba Barley Wine",
+	  "activelyBrewed": true,
+	  "ibu": 57,
+	  "abv": 9.7,
+	  "flavors": [
+		"malt",
+		"raisin"
+	  ],
+	  "lastTappedOn": "4/24/2016",
+	  "breweryId": "Ek4mwsBoe",
+	  "breweryName": "Southern Hemisphere Brewco"
+	},
+	{
+	  "id": 12,
+	  "name": "Megalodon Pale Ale",
+	  "activelyBrewed": true,
+	  "ibu": 99,
+	  "abv": 5.7,
+	  "flavors": [
+		"bread",
+		"hops",
+		"pine"
+	  ],
+	  "lastTappedOn": "3/31/2016",
+	  "breweryId": "VkNvPjBse",
+	  "breweryName": "Oceanic Brewco"
+	},
+	{
+	  "id": 16,
+	  "name": "Pope Lick Porter",
+	  "activelyBrewed": true,
+	  "ibu": 39,
+	  "abv": 6.5,
+	  "flavors": [
+		"smokey",
+		"chocolate",
+		"banana"
+	  ],
+	  "lastTappedOn": "1/6/2016",
+	  "breweryId": "zkXBTiBol",
+	  "breweryName": "North American Brewco"
+	},
+	{
+	  "id": 17,
+	  "name": "Chocolate Pukwudgie Stout",
+	  "activelyBrewed": true,
+	  "ibu": 35,
+	  "abv": 12.2,
+	  "flavors": [
+		"chocolate",
+		"coffee"
+	  ],
+	  "lastTappedOn": "2/25/2016",
+	  "breweryId": "zkXBTiBol",
+	  "breweryName": "North American Brewco"
+	},
+	{
+	  "id": 18,
+	  "name": "Sharlie Pilsner",
+	  "activelyBrewed": true,
+	  "ibu": 31,
+	  "abv": 4.1,
+	  "flavors": [
+		"grass"
+	  ],
+	  "lastTappedOn": "2/18/2016",
+	  "breweryId": "zkXBTiBol",
+	  "breweryName": "North American Brewco"
+	},
+	{
+	  "id": 19,
+	  "name": "Sigbin Stout",
+	  "activelyBrewed": false,
+	  "ibu": 65,
+	  "abv": 8.1,
+	  "flavors": [
+		"coffee",
+		"caramel"
+	  ],
+	  "lastTappedOn": "3/18/2016",
+	  "breweryId": "b3TplPdS",
+	  "breweryName": "Northern Hemisphere Brewco"
+	},
+	{
+	  "id": 21,
+	  "name": "Snallygaster Pale Ale",
+	  "activelyBrewed": false,
+	  "ibu": 89,
+	  "abv": 9.7,
+	  "flavors": [
+		"pine",
+		"honey"
+	  ],
+	  "lastTappedOn": "4/29/2016",
+	  "breweryId": "zkXBTiBol",
+	  "breweryName": "North American Brewco"
+	},
+	{
+	  "id": 22,
+	  "name": "Tikibalang Barley Wine",
+	  "activelyBrewed": true,
+	  "ibu": 45,
+	  "abv": 9.6,
+	  "flavors": [
+		"bourbon"
+	  ],
+	  "lastTappedOn": "3/14/2016",
+	  "breweryId": "b3TplPdS",
+	  "breweryName": "Northern Hemisphere Brewco"
+	},
+	{
+	  "id": 26,
+	  "name": "Pale Popobawa Ale",
+	  "activelyBrewed": true,
+	  "ibu": 30,
+	  "abv": 4.4,
+	  "flavors": [
+		"wheat"
+	  ],
+	  "lastTappedOn": "5/9/2016",
+	  "breweryId": "Ek4mwsBoe",
+	  "breweryName": "Southern Hemisphere Brewco"
+	},
+	{
+	  "id": 27,
+	  "name": "North Adjule Lager",
+	  "activelyBrewed": true,
+	  "ibu": 30,
+	  "abv": 3.7,
+	  "flavors": [
+		"citrus"
+	  ],
+	  "lastTappedOn": "2/8/2016",
+	  "breweryId": "Ek4mwsBoe",
+	  "breweryName": "Southern Hemisphere Brewco"
+	}
+]
